@@ -2,19 +2,17 @@
 ![Badge](https://img.shields.io/static/v1?label=yarn&message=1.22.5&color=blue)
 
 <h1 align="center">
-    <table>
-    <tr>
-    <td><p>Podcastr</p></td>
-    <td><img src= "/logo.svg" alt= "Podcastr"/><td>
-    </tr>
-    </table>
-    <img src= "/player.gif" alt="Player"/>
+    <img src= "public/logo.svg" alt= "Podcastr"/> 
+</h1>
+
+<h1 align="center">
+    <img src= "public/player.gif" alt="Player"/>
 </h1>
 <h1 align="left">
-    <img src= "/home.jpg" alt="Home"/>
+    <img src= "public/home.jpg" alt="Home"/>
 </h1>
 <h1 align="right">
-    <img src= "/ep.jpg" alt="Episode"/>
+    <img src= "public/ep.jpg" alt="Episode"/>
 </h1>
 
 ## Getting Started
